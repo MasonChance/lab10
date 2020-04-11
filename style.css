@@ -1,0 +1,54 @@
+*{
+  outline: 1px dotted red;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+header{
+  border-bottom-color: gray; 
+  margin-left:auto;
+  margin-right: auto;
+  
+}
+
+body{
+  margin-left:auto;
+  margin-right: auto;
+}
+
+main{
+  margin-left:auto;
+  margin-right: auto;
+ 
+}
+
+footer{
+  margin-left:auto;
+  margin-right: auto;
+ 
+}
+
+div{
+ position: auto;
+ left: 1px;
+ top: 1px;
+ z-index: 0;
+
+
+}
+
+ul{
+  color: black;
+  float: left;
+  font-family: 'Comic Sans MS';
+}
+
+li{
+  color: black;
+  
+}
+
+.content {
+  margin: auto;
+
+}
